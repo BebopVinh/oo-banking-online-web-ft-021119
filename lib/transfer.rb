@@ -28,5 +28,4 @@ class Transfer
       @status = 'reversed'
     end
   end
-
 end #END OF CLASS
